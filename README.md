@@ -1,13 +1,15 @@
 # awesome-nativephp
-Sharing the apps everyone is building
+Sharing the stuff everyone is making with/around [NativePHP](https://nativephp.com)
 
 ## How to
-Create a PR that adds your app to this readme file.
+Create a PR that adds your project, app, article, course to this readme file.
 
 ## Etiquette
 - Don't move other listings
 - Only one listing per PR
-- Format must be per the example otherwise it will be rejected
+- Format must be per the example
+
+Failire to follow the etiquette otherwise will result in your PR getting swiftly rejected.
 
 ## Example
 
@@ -19,7 +21,7 @@ Description
 
 Type: [electron | tauri]
 
-Tags: [max 3 comma-separated terms]
+Tags: [max 5 comma-separated terms]
 ```
 
 ### Cronikl
@@ -29,4 +31,4 @@ A small tool to manage scheduled tasks
 
 Type: electron
 
-Tags: cron, open-source
+Tags: app, cron, open-source
