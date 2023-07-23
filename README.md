@@ -9,7 +9,7 @@ Create a PR that adds your project, app, article, course to this readme file.
 - Only one listing per PR
 - Format must be per the example
 
-Failire to follow the etiquette otherwise will result in your PR getting swiftly rejected.
+Failure to follow the etiquette otherwise will result in your PR getting swiftly rejected.
 
 ## Example
 
