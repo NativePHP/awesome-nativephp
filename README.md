@@ -32,3 +32,12 @@ A small tool to manage scheduled tasks
 Type: electron
 
 Tags: app, cron, open-source
+
+### Larajobs Desktop
+https://github.com/sawirricardo/larajobs-desktop
+
+The desktop notifier for Larajobs
+
+Type: electron
+
+Tags: app, notification, larajobs, job board, open-source
