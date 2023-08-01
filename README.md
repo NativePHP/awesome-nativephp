@@ -50,3 +50,12 @@ Tool that displays logs for local laravel projects.
 Type: electron
 
 Tags: logger app
+
+### DOOM native PHP
+https://github.com/Itemshopp/doom-native-php
+
+A desktop app embedded version of DOOM
+
+Type: electron
+
+Tags: video game, retro, dos, doom
