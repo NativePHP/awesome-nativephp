@@ -41,3 +41,12 @@ The desktop notifier for Larajobs
 Type: electron
 
 Tags: app, notification, larajobs, job board, open-source
+
+### Logger Desktop App
+https://github.com/mattsplat/logger-app
+
+Tool that displays logs for local laravel projects.
+
+Type: electron
+
+Tags: logger app
