@@ -41,3 +41,12 @@ The desktop notifier for Larajobs
 Type: electron
 
 Tags: app, notification, larajobs, job board, open-source
+
+### DOOM native PHP
+https://github.com/Itemshopp/doom-native-php
+
+A desktop app embedded version of DOOM
+
+Type: electron
+
+Tags: video game, retro, dos, doom
