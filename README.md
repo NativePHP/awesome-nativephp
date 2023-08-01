@@ -42,6 +42,15 @@ Type: electron
 
 Tags: app, notification, larajobs, job board, open-source
 
+### Logger Desktop App
+https://github.com/mattsplat/logger-app
+
+Tool that displays logs for local laravel projects.
+
+Type: electron
+
+Tags: logger app
+
 ### DOOM native PHP
 https://github.com/Itemshopp/doom-native-php
 
