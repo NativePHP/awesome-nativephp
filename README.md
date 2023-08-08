@@ -1,4 +1,4 @@
-# awesome-nativephp
+# Awesome NativePHP
 Sharing the stuff everyone is making with/around [NativePHP](https://nativephp.com)
 
 ## How to
@@ -22,7 +22,11 @@ Description
 Type: [electron | tauri]
 
 Tags: [max 5 comma-separated terms]
+
+---
 ```
+
+## Apps & Games
 
 ### Cronikl
 https://github.com/simonhamp/cronikl
@@ -33,6 +37,19 @@ Type: electron
 
 Tags: app, cron, open-source
 
+---
+
+### DOOM
+https://github.com/Itemshopp/doom-native-php
+
+DOOM in NativePHP
+
+Type: electron
+
+Tags: video game, retro, dos, doom
+
+---
+
 ### Larajobs Desktop
 https://github.com/sawirricardo/larajobs-desktop
 
@@ -42,6 +59,8 @@ Type: electron
 
 Tags: app, notification, larajobs, job board, open-source
 
+---
+
 ### Logger Desktop App
 https://github.com/mattsplat/logger-app
 
@@ -50,12 +69,3 @@ Tool that displays logs for local laravel projects.
 Type: electron
 
 Tags: logger app
-
-### DOOM native PHP
-https://github.com/Itemshopp/doom-native-php
-
-A desktop app embedded version of DOOM
-
-Type: electron
-
-Tags: video game, retro, dos, doom
