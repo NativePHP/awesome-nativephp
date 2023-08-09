@@ -69,3 +69,14 @@ Tool that displays logs for local laravel projects.
 Type: electron
 
 Tags: logger app
+
+---
+
+### Air Quality Index Taskbar App
+https://github.com/breadthe/aqi-desktop
+
+A Mac taskbar app for monitoring the Air Quality Index in your zip code.
+
+Type: electron
+
+Tags: app, taskbar, air quality, monitor, api
