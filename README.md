@@ -80,3 +80,13 @@ Tool that displays logs for local laravel projects.
 Type: electron
 
 Tags: logger app
+
+---
+### NativePHP Tutorial: Building a Mac MenuBar application
+https://laravel-news.com/nativephp-tutorial
+
+Follow along with me as we put together a Mac MenuBar application to know the local time of each member of your team.
+
+Type: electron
+
+Tags: tutorial, article, laravel news
