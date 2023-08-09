@@ -81,11 +81,23 @@ Type: electron
 
 Tags: logger app
 
+## Videos & Tutorials
+
+### Laravel Full App Tutorial with NativePHP
+https://www.youtube.com/playlist?list=PLk7WHc3O9gjYkGYUXOCORXJMYFTC2A6Z5
+
+A series where [@ShaneDRosenthal](https://twitter.com/ShaneDRosenthal) creates a NativePHP Todos app and links it upp with a separate Jetstream app. Users can see what other team members are currently working on and what they have completed for the day/week etc.
+
+Type: electron
+
+Tags: app, laravel jetstream, tutorial
+
 ---
+
 ### NativePHP Tutorial: Building a Mac MenuBar application
 https://laravel-news.com/nativephp-tutorial
 
-Follow along with me as we put together a Mac MenuBar application to know the local time of each member of your team.
+Follow along as we put together a Mac MenuBar application to know the local time of each member of your team.
 
 Type: electron
 
