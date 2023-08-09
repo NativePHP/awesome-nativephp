@@ -80,3 +80,14 @@ Tool that displays logs for local laravel projects.
 Type: electron
 
 Tags: logger app
+
+---
+
+### TimeCode - MenuBar timezone tracker
+https://github.com/nexxai/timecode
+
+Track all of your colleagues' timezones in an app and on the MenuBar
+
+Type: electron
+
+Tags: timezone, open-source, productivity
