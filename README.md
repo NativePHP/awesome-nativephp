@@ -80,3 +80,16 @@ Tool that displays logs for local laravel projects.
 Type: electron
 
 Tags: logger app
+
+---
+
+### IPTracker
+https://github.com/modernben/iptracker
+
+Desktop tool to keep track of your IP address and update you when it changes
+
+Type: electron
+
+Tags: utility, networking, ip
+
+---
