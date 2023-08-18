@@ -81,6 +81,17 @@ Type: electron
 
 Tags: logger app
 
+---
+
+### YaTTa!
+https://github.com/murdercode/yaTTA
+
+Yet Another Talk To AI app
+
+Type: electron
+
+Tags: chat, openai, chatgpt, ai, open-source 
+
 ## Videos & Tutorials
 
 ### Laravel Full App Tutorial with NativePHP
