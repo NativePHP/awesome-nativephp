@@ -81,6 +81,19 @@ Type: electron
 
 Tags: logger app
 
+---
+
+### Open Sketch App
+https://github.com/kpicaza/open-sketch
+
+A sketching app that empowers you to explore your creativity on a digital canvas.
+
+Type: electron
+
+Tags: canvaas, draw, sketch, app
+
+---
+
 ## Videos & Tutorials
 
 ### Laravel Full App Tutorial with NativePHP
