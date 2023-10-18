@@ -84,6 +84,17 @@ Tags: logger app
 
 ---
 
+### YaTTa!
+https://github.com/murdercode/yaTTA
+
+Yet Another Talk To AI app
+
+Type: electron
+
+Tags: chat, openai, chatgpt, ai, open-source 
+
+---
+
 ### IPTracker
 https://github.com/modernben/iptracker
 
@@ -103,8 +114,6 @@ Track all of your colleagues' timezones in an app and on the MenuBar
 Type: electron
 
 Tags: timezone, open-source, productivity
-
-
 
 
 ## Videos & Tutorials
