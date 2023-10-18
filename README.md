@@ -81,8 +81,19 @@ Type: electron
 
 Tags: logger app
 
+---
+
+### Open Sketch App
+https://github.com/kpicaza/open-sketch
+
+A sketching app that empowers you to explore your creativity on a digital canvas.
+
+Type: electron
+
+Tags: canvaas, draw, sketch, app
 
 ---
+
 
 ### YaTTa!
 https://github.com/murdercode/yaTTA
@@ -114,7 +125,6 @@ Track all of your colleagues' timezones in an app and on the MenuBar
 Type: electron
 
 Tags: timezone, open-source, productivity
-
 
 ## Videos & Tutorials
 
