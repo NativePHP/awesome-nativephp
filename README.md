@@ -81,6 +81,18 @@ Type: electron
 
 Tags: logger app
 
+
+---
+
+### IPTracker
+https://github.com/modernben/iptracker
+
+Desktop tool to keep track of your IP address and update you when it changes
+
+Type: electron
+
+Tags: utility, networking, ip
+
 ---
 
 ### TimeCode - MenuBar timezone tracker
@@ -91,6 +103,8 @@ Track all of your colleagues' timezones in an app and on the MenuBar
 Type: electron
 
 Tags: timezone, open-source, productivity
+
+
 
 
 ## Videos & Tutorials
