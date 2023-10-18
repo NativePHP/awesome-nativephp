@@ -81,6 +81,7 @@ Type: electron
 
 Tags: logger app
 
+
 ---
 
 ### YaTTa!
@@ -91,6 +92,29 @@ Yet Another Talk To AI app
 Type: electron
 
 Tags: chat, openai, chatgpt, ai, open-source 
+
+---
+
+### IPTracker
+https://github.com/modernben/iptracker
+
+Desktop tool to keep track of your IP address and update you when it changes
+
+Type: electron
+
+Tags: utility, networking, ip
+
+---
+
+### TimeCode - MenuBar timezone tracker
+https://github.com/nexxai/timecode
+
+Track all of your colleagues' timezones in an app and on the MenuBar
+
+Type: electron
+
+Tags: timezone, open-source, productivity
+
 
 ## Videos & Tutorials
 
