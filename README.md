@@ -94,6 +94,16 @@ Tags: canvaas, draw, sketch, app
 
 ---
 
+### Object Storage Manager
+https://github.com/mattsplat/ObjectStorageManager
+
+App to easily view files and folder structures inside your S3 compatible disk.
+
+Type: electron
+
+Tags: s3, file manager
+
+---
 
 ### YaTTa!
 https://github.com/murdercode/yaTTA
