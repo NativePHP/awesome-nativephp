@@ -147,6 +147,17 @@ Type: electron
 
 Tags: timezone, open-source, productivity
 
+---
+
+### Watchdog - Website Monitor
+https://github.com/solutionforest/Watchdog
+
+Keep track of the uptime of their websites on the MenuBar
+
+Type: electron
+
+Tags: monitor, open-source, productivity, utility
+
 ## Videos & Tutorials
 
 ### Laravel Full App Tutorial with NativePHP
