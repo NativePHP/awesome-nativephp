@@ -147,6 +147,17 @@ Type: electron
 
 Tags: timezone, open-source, productivity
 
+---
+
+### LaraPass - Password Manager
+https://github.com/alibori/larapass
+
+Keep your passwords safe with this self-hosted password manager built with Laravel, Livewire, Tailwind CSS and NativePHP.
+
+Type: electron
+
+Tags: open-source, password manager
+
 ## Videos & Tutorials
 
 ### Laravel Full App Tutorial with NativePHP
