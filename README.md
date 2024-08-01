@@ -44,7 +44,8 @@ https://codeberg.org/atlza/apnee
 
 Simple Exif and IPTC image editor 
 
-Type: electron
+Type: electron   
+   
 Tags: exif, iptc, image, photo, ExifTools
 
 ---
