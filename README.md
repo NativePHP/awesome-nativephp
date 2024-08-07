@@ -39,6 +39,17 @@ Tags: app, taskbar, air quality, monitor, api
 
 ---
 
+### APNEE
+https://codeberg.org/atlza/apnee
+
+Simple Exif and IPTC image editor 
+
+Type: electron   
+   
+Tags: exif, iptc, image, photo, ExifTools
+
+---
+
 ### Cronikl
 https://github.com/simonhamp/cronikl
 
