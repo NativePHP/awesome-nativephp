@@ -94,6 +94,17 @@ Tags: app, notification, larajobs, job board, open-source
 
 ---
 
+### LaraPass - Password Manager
+https://github.com/alibori/larapass
+
+Keep your passwords safe with this self-hosted password manager built with Laravel, Livewire, Tailwind CSS and NativePHP.
+
+Type: electron
+
+Tags: open-source, password manager
+
+---
+
 ### Logger Desktop App
 https://github.com/mattsplat/logger-app
 
@@ -168,17 +179,6 @@ Keep track of the uptime of their websites on the MenuBar
 Type: electron
 
 Tags: monitor, open-source, productivity, utility
-
----
-
-### LaraPass - Password Manager
-https://github.com/alibori/larapass
-
-Keep your passwords safe with this self-hosted password manager built with Laravel, Livewire, Tailwind CSS and NativePHP.
-
-Type: electron
-
-Tags: open-source, password manager
 
 ## Videos & Tutorials
 
