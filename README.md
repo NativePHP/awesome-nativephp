@@ -83,6 +83,18 @@ Tags: app, mysql, laravel
 
 ---
 
+### Hwei's Brush
+https://github.com/rico-vz/Hweis-Brush
+
+Customize your League of Legends profile background using the LCU API. 
+
+Type: electron
+
+Tags: league of legends, lcu api, riot games, windows
+
+---
+
+
 ### Larajobs Desktop
 https://github.com/sawirricardo/larajobs-desktop
 
