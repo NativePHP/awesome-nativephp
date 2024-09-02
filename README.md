@@ -123,7 +123,7 @@ A sketching app that empowers you to explore your creativity on a digital canvas
 
 Type: electron
 
-Tags: canvaas, draw, sketch, app
+Tags: canvas, draw, sketch, app
 
 ---
 
