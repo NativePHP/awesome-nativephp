@@ -135,7 +135,7 @@ A sketching app that empowers you to explore your creativity on a digital canvas
 
 Type: electron
 
-Tags: canvaas, draw, sketch, app
+Tags: canvas, draw, sketch, app
 
 ---
 
@@ -197,7 +197,7 @@ Tags: monitor, open-source, productivity, utility
 ### Laravel Full App Tutorial with NativePHP
 https://www.youtube.com/playlist?list=PLk7WHc3O9gjYkGYUXOCORXJMYFTC2A6Z5
 
-A series where [@ShaneDRosenthal](https://twitter.com/ShaneDRosenthal) creates a NativePHP Todos app and links it upp with a separate Jetstream app. Users can see what other team members are currently working on and what they have completed for the day/week etc.
+A series where [@ShaneDRosenthal](https://twitter.com/ShaneDRosenthal) creates a NativePHP Todos app and links it up with a separate Jetstream app. Users can see what other team members are currently working on and what they have completed for the day/week etc.
 
 Type: electron
 
