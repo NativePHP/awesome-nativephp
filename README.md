@@ -172,6 +172,14 @@ Tags: utility, networking, ip
 
 ---
 
+### Relay
+
+Relay brings real-time monitoring of your GitHub Workflows directly to your Mac menu bar
+
+Tags: CI/CD, GitHub, devtool, utility
+
+---
+
 ### TimeCode - MenuBar timezone tracker
 https://github.com/nexxai/timecode
 
