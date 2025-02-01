@@ -150,6 +150,17 @@ Tags: s3, file manager
 
 ---
 
+### Phost
+https://github.com/gwleuverink/phost
+
+Inbox and local SMTP server for intercepting and debugging emails during development
+
+Type: electron
+
+Tags: email, devtool, utility, SMTP, network protocol
+
+---
+
 ### YaTTa!
 https://github.com/murdercode/yaTTA
 
