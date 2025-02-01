@@ -192,6 +192,17 @@ Type: electron
 
 Tags: monitor, open-source, productivity, utility
 
+---
+
+### nativePOS - Electronic Fund Transfer POS
+https://github.com/Faraimunashe/nativePos
+
+A zw pos application integrated with EFT, typical for canteens. 
+
+Type: electron
+
+Tags: app, api, laravel, pos, eft
+
 ## Videos & Tutorials
 
 ### Laravel Full App Tutorial with NativePHP
