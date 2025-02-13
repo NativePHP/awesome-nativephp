@@ -211,6 +211,19 @@ Type: electron
 
 Tags: monitor, open-source, productivity, utility
 
+---
+
+### Psy REPL - GUI for tinker
+https://github.com/Jacked-PHP/psy-repl
+
+Interact with your Laravel tinker via GUI.
+
+It works local for bare metal or dockerized applications, and remote via ssh.
+
+Type: electron
+
+Tags: repl, tinker, shell, laravel, utility, productivity
+
 ## Videos & Tutorials
 
 ### Laravel Full App Tutorial with NativePHP
