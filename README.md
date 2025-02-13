@@ -19,7 +19,7 @@ Link
 
 Description
 
-Type: [electron | tauri]
+Type: [electron | tauri | mobile]
 
 Tags: [max 5 comma-separated terms]
 
@@ -58,6 +58,17 @@ A small tool to manage scheduled tasks
 Type: electron
 
 Tags: app, cron, open-source
+
+---
+
+### Daily Pursuit
+https://apps.apple.com/app/daily-pursuit/id6740605199
+
+A simple trivia game for iOS
+
+Type: mobile
+
+Tags: game, mobile, trivia, livewire
 
 ---
 
