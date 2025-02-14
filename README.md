@@ -256,3 +256,12 @@ Follow along as we put together a Mac MenuBar application to know the local time
 Type: electron
 
 Tags: tutorial, article, laravel news
+
+### RewriteGPT : An AI Rewriting & translating tool
+[Link](https://github.com/marcanthonysurmont/rewritegpt)
+
+A powerful tool for effortless rewriting and translation! Simply enter your OpenAI key, copy any text, and press CTRL / CMD + ALT + C to instantly enhance wording, punctuation, and clarity.
+
+Type: electron
+
+Tags: OpenAI, Rewrite, Toolbar, Productivity
