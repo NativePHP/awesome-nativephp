@@ -105,6 +105,16 @@ Tags: league of legends, lcu api, riot games, windows
 
 ---
 
+### IPTracker
+https://github.com/modernben/iptracker
+
+Desktop tool to keep track of your IP address and update you when it changes
+
+Type: electron
+
+Tags: utility, networking, ip
+
+---
 
 ### Larajobs Desktop
 https://github.com/sawirricardo/larajobs-desktop
@@ -139,17 +149,6 @@ Tags: logger app
 
 ---
 
-### Open Sketch App
-https://github.com/kpicaza/open-sketch
-
-A sketching app that empowers you to explore your creativity on a digital canvas.
-
-Type: electron
-
-Tags: canvas, draw, sketch, app
-
----
-
 ### Object Storage Manager
 https://github.com/mattsplat/ObjectStorageManager
 
@@ -158,6 +157,17 @@ App to easily view files and folder structures inside your S3 compatible disk.
 Type: electron
 
 Tags: s3, file manager
+
+---
+
+### Open Sketch App
+https://github.com/kpicaza/open-sketch
+
+A sketching app that empowers you to explore your creativity on a digital canvas.
+
+Type: electron
+
+Tags: canvas, draw, sketch, app
 
 ---
 
@@ -172,25 +182,16 @@ Tags: email, devtool, utility, SMTP, network protocol
 
 ---
 
-### YaTTa!
-https://github.com/murdercode/yaTTA
+### Psy REPL - GUI for tinker
+https://github.com/Jacked-PHP/psy-repl
 
-Yet Another Talk To AI app
+Interact with your Laravel tinker via GUI.
 
-Type: electron
-
-Tags: chat, openai, chatgpt, ai, open-source 
-
----
-
-### IPTracker
-https://github.com/modernben/iptracker
-
-Desktop tool to keep track of your IP address and update you when it changes
+It works local for bare metal or dockerized applications, and remote via ssh.
 
 Type: electron
 
-Tags: utility, networking, ip
+Tags: repl, tinker, shell, laravel, utility, productivity
 
 ---
 
@@ -224,16 +225,14 @@ Tags: monitor, open-source, productivity, utility
 
 ---
 
-### Psy REPL - GUI for tinker
-https://github.com/Jacked-PHP/psy-repl
+### YaTTa!
+https://github.com/murdercode/yaTTA
 
-Interact with your Laravel tinker via GUI.
-
-It works local for bare metal or dockerized applications, and remote via ssh.
+Yet Another Talk To AI app
 
 Type: electron
 
-Tags: repl, tinker, shell, laravel, utility, productivity
+Tags: chat, openai, chatgpt, ai, open-source 
 
 ## Videos & Tutorials
 
