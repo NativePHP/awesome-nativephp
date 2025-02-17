@@ -181,6 +181,16 @@ Type: electron
 Tags: email, devtool, utility, SMTP, network protocol
 
 ---
+### RewriteGPT : An AI Rewriting & translating tool
+[Link](https://github.com/marcanthonysurmont/rewritegpt)
+
+A powerful tool for effortless rewriting and translation! Simply enter your OpenAI key, copy any text, and press CTRL / CMD + ALT + C to instantly enhance wording, punctuation, and clarity.
+
+Type: electron
+
+Tags: OpenAI, Rewrite, Toolbar, Productivity
+
+---
 
 ### Psy REPL - GUI for tinker
 https://github.com/Jacked-PHP/psy-repl
