@@ -224,6 +224,17 @@ Tags: timezone, open-source, productivity
 
 ---
 
+### TimeScribe
+https://timescribe.app/
+
+Simple and free working time recording. Completely free, no registration and open source.
+
+Type: electron
+
+Tags: time tracking, macos, menubar, open-source, productivity
+
+---
+
 ### Watchdog - Website Monitor
 https://github.com/solutionforest/Watchdog
 
