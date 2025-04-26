@@ -171,6 +171,17 @@ Tags: canvas, draw, sketch, app
 
 ---
 
+### PHP Dune
+https://github.com/pabloFdz/PHPDune
+
+A serverless, standalone and installable PHP Sandbox.
+
+Type: electron
+
+Tags: sandbox, utility, devtool
+
+---
+
 ### Phost
 https://github.com/gwleuverink/phost
 
