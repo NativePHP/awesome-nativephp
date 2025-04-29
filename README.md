@@ -218,6 +218,8 @@ Tags: repl, tinker, shell, laravel, utility, productivity
 
 ### Relay
 
+https://github.com/gwleuverink/relay
+
 Relay brings real-time monitoring of your GitHub Workflows directly to your Mac menu bar
 
 Tags: CI/CD, GitHub, devtool, utility
