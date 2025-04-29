@@ -181,6 +181,17 @@ Type: electron
 Tags: email, devtool, utility, SMTP, network protocol
 
 ---
+
+### PHP Dune
+https://github.com/pabloFdz/PHPDune
+
+A serverless, standalone and installable PHP Sandbox.
+
+Type: electron
+
+Tags: sandbox, utility, devtool
+
+---
 ### RewriteGPT : An AI Rewriting & translating tool
 [Link](https://github.com/marcanthonysurmont/rewritegpt)
 
