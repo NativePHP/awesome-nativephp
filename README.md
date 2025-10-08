@@ -94,17 +94,6 @@ Tags: app, API, Laravel
 
 ---
 
-### Gander
-https://github.com/lewissteele/gander
-
-Relational database management tool made using Laravel
-
-Type: electron
-
-Tags: app, mysql, laravel
-
----
-
 ### Hwei's Brush
 https://github.com/rico-vz/Hweis-Brush
 
