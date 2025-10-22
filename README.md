@@ -149,6 +149,17 @@ Tags: open-source, password manager
 
 ---
 
+### LeevSync. - rsync GUI
+https://github.com/cbuzas/leevsync
+
+NativePHP based rsync synchronization tool for desktop
+
+Type: electron
+
+Tags: open-source, rsync
+
+---
+
 ### Logger Desktop App
 https://github.com/mattsplat/logger-app
 
