@@ -116,6 +116,17 @@ Tags: utility, networking, ip
 
 ---
 
+### JSON Converter & Formatter
+https://github.com/IvalinV/json-formatter-and-converter
+
+Desktop application for formatting & converting `JSON` to `PHP` associative array.
+
+Type: electron
+
+Tags: app, JSON, Laravel
+
+---
+
 ### Larajobs Desktop
 https://github.com/sawirricardo/larajobs-desktop
 
