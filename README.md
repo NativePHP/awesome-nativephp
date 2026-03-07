@@ -248,6 +248,17 @@ Tags: CI/CD, GitHub, devtool, utility
 
 ---
 
+### Sumie
+https://github.com/vikas5914/sumie
+
+Your personal manga library. Track, read, and discover.
+
+Type: mobile
+
+Tags: manga, reader, library, mobile, inertia
+
+---
+
 ### TimeCode - MenuBar timezone tracker
 https://github.com/nexxai/timecode
 
