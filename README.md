@@ -19,7 +19,7 @@ Link
 
 Description
 
-Type: [electron | tauri | mobile]
+Type: [desktop | mobile]
 
 Tags: [max 5 comma-separated terms]
 
@@ -33,7 +33,7 @@ https://github.com/breadthe/aqi-desktop
 
 A Mac taskbar app for monitoring the Air Quality Index in your zip code.
 
-Type: electron
+Type: desktop
 
 Tags: app, taskbar, air quality, monitor, api
 
@@ -44,7 +44,7 @@ https://codeberg.org/atlza/apnee
 
 Simple Exif and IPTC image editor 
 
-Type: electron   
+Type: desktop   
    
 Tags: exif, iptc, image, photo, ExifTools
 
@@ -55,7 +55,7 @@ https://github.com/simonhamp/cronikl
 
 A small tool to manage scheduled tasks
 
-Type: electron
+Type: desktop
 
 Tags: app, cron, open-source
 
@@ -77,7 +77,7 @@ https://github.com/Itemshopp/doom-native-php
 
 DOOM in NativePHP
 
-Type: electron
+Type: desktop
 
 Tags: video game, retro, dos, doom
 
@@ -88,7 +88,7 @@ https://github.com/IvalinV/Find-me-an-Image
 
 Simple NativePHP application utilizing the `Lorem Picsum API` for retrieving images with specific size.
 
-Type: electron
+Type: desktop
 
 Tags: app, API, Laravel
 
@@ -99,7 +99,7 @@ https://github.com/rico-vz/Hweis-Brush
 
 Customize your League of Legends profile background using the LCU API. 
 
-Type: electron
+Type: desktop
 
 Tags: league of legends, lcu api, riot games, windows
 
@@ -110,7 +110,7 @@ https://github.com/modernben/iptracker
 
 Desktop tool to keep track of your IP address and update you when it changes
 
-Type: electron
+Type: desktop
 
 Tags: utility, networking, ip
 
@@ -121,7 +121,7 @@ https://github.com/IvalinV/json-formatter-and-converter
 
 Desktop application for formatting & converting `JSON` to `PHP` associative array.
 
-Type: electron
+Type: desktop
 
 Tags: app, JSON, Laravel
 
@@ -132,7 +132,7 @@ https://github.com/sawirricardo/larajobs-desktop
 
 The desktop notifier for Larajobs
 
-Type: electron
+Type: desktop
 
 Tags: app, notification, larajobs, job board, open-source
 
@@ -143,7 +143,7 @@ https://github.com/alibori/larapass
 
 Keep your passwords safe with this self-hosted password manager built with Laravel, Livewire, Tailwind CSS and NativePHP.
 
-Type: electron
+Type: desktop
 
 Tags: open-source, password manager
 
@@ -154,7 +154,7 @@ https://github.com/cbuzas/leevsync
 
 NativePHP based rsync synchronization tool for desktop
 
-Type: electron
+Type: desktop
 
 Tags: open-source, rsync
 
@@ -165,7 +165,7 @@ https://github.com/mattsplat/logger-app
 
 Tool that displays logs for local laravel projects.
 
-Type: electron
+Type: desktop
 
 Tags: logger app
 
@@ -176,7 +176,7 @@ https://github.com/mattsplat/ObjectStorageManager
 
 App to easily view files and folder structures inside your S3 compatible disk.
 
-Type: electron
+Type: desktop
 
 Tags: s3, file manager
 
@@ -187,7 +187,7 @@ https://github.com/kpicaza/open-sketch
 
 A sketching app that empowers you to explore your creativity on a digital canvas.
 
-Type: electron
+Type: desktop
 
 Tags: canvas, draw, sketch, app
 
@@ -198,7 +198,7 @@ https://github.com/gwleuverink/phost
 
 Inbox and local SMTP server for intercepting and debugging emails during development
 
-Type: electron
+Type: desktop
 
 Tags: email, devtool, utility, SMTP, network protocol
 
@@ -209,7 +209,7 @@ https://github.com/pabloFdz/PHPDune
 
 A serverless, standalone and installable PHP Sandbox.
 
-Type: electron
+Type: desktop
 
 Tags: sandbox, utility, devtool
 
@@ -219,7 +219,7 @@ Tags: sandbox, utility, devtool
 
 A powerful tool for effortless rewriting and translation! Simply enter your OpenAI key, copy any text, and press CTRL / CMD + ALT + C to instantly enhance wording, punctuation, and clarity.
 
-Type: electron
+Type: desktop
 
 Tags: OpenAI, Rewrite, Toolbar, Productivity
 
@@ -232,7 +232,7 @@ Interact with your Laravel tinker via GUI.
 
 It works local for bare metal or dockerized applications, and remote via ssh.
 
-Type: electron
+Type: desktop
 
 Tags: repl, tinker, shell, laravel, utility, productivity
 
@@ -264,7 +264,7 @@ https://github.com/nexxai/timecode
 
 Track all of your colleagues' timezones in an app and on the MenuBar
 
-Type: electron
+Type: desktop
 
 Tags: timezone, open-source, productivity
 
@@ -275,7 +275,7 @@ https://timescribe.app/
 
 Simple and free working time recording. Completely free, no registration and open source.
 
-Type: electron
+Type: desktop
 
 Tags: time tracking, macos, menubar, open-source, productivity
 
@@ -286,7 +286,7 @@ https://github.com/solutionforest/Watchdog
 
 Keep track of the uptime of their websites on the MenuBar
 
-Type: electron
+Type: desktop
 
 Tags: monitor, open-source, productivity, utility
 
@@ -297,7 +297,7 @@ https://github.com/murdercode/yaTTA
 
 Yet Another Talk To AI app
 
-Type: electron
+Type: desktop
 
 Tags: chat, openai, chatgpt, ai, open-source 
 
@@ -308,7 +308,7 @@ https://www.youtube.com/playlist?list=PLk7WHc3O9gjYkGYUXOCORXJMYFTC2A6Z5
 
 A series where [@ShaneDRosenthal](https://twitter.com/ShaneDRosenthal) creates a NativePHP Todos app and links it up with a separate Jetstream app. Users can see what other team members are currently working on and what they have completed for the day/week etc.
 
-Type: electron
+Type: desktop
 
 Tags: app, laravel jetstream, tutorial
 
@@ -319,6 +319,6 @@ https://laravel-news.com/nativephp-tutorial
 
 Follow along as we put together a Mac MenuBar application to know the local time of each member of your team.
 
-Type: electron
+Type: desktop
 
 Tags: tutorial, article, laravel news
