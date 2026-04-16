@@ -93,6 +93,17 @@ Type: desktop
 Tags: app, API, Laravel
 
 ---
+### ForcedBreak
+
+https://github.com/hzeeshan/forcedbreak
+
+A macOS menu bar app that covers all your screens until you complete a physical challenge. Forces you to take healthy breaks. Built with Laravel 12, Livewire 4, and Tailwind CSS v4.
+
+Type: desktop
+
+Tags: menu-bar, productivity, health, open-source, livewire
+
+---
 
 ### Hwei's Brush
 https://github.com/rico-vz/Hweis-Brush
