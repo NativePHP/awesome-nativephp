@@ -248,6 +248,17 @@ Tags: CI/CD, GitHub, devtool, utility
 
 ---
 
+### Sudo Play
+https://github.com/albertoarena/sudo-play
+
+A macOS menu bar app that picks today's Spotify playlist from what you are coding and how you feel about it.
+
+Type: desktop
+
+Tags: spotify, music, menu bar, developer tools, open-source
+
+---
+
 ### Sumie
 https://github.com/vikas5914/sumie
 
