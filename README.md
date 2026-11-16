@@ -248,6 +248,17 @@ Tags: CI/CD, GitHub, devtool, utility
 
 ---
 
+### Sudo Hire
+https://github.com/albertoarena/sudo-hire
+
+A macOS menu bar app that finds remote PHP and Laravel jobs you can take from where you live. It checks the location rules, converts the salary and keeps everything on your Mac.
+
+Type: desktop
+
+Tags: job search, remote jobs, menu bar, laravel, open-source
+
+---
+
 ### Sumie
 https://github.com/vikas5914/sumie
 
